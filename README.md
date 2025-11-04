@@ -1,8 +1,8 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-Name : DHARANI DHARAN K
+# Name : DHARANI DHARAN K
 
 
-Reg No : 212223040036
+# Reg No : 212223040036
 
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
